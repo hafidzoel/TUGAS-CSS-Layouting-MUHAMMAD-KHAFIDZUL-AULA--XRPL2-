@@ -1,0 +1,92 @@
+.judul {
+    font-size: 60px;
+    color: aqua;
+    height: 70px;
+    background-color: palevioletred;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding: 6px;
+    border: 10px solid orangered;
+}
+.container {
+    width: 500px;
+    border: 10px solid black;
+    margin: auto;
+    padding: 10px;
+    color : red;
+    background-color: aqua;
+}
+ .contain {
+        width: 500px;
+        border: 10px solid black;
+        margin: auto;
+        padding: 10px;
+        color:red;
+        background-color: aqua;
+        overflow: auto;
+        
+    
+}
+.kotak {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(233, 49, 29);
+    color:darkblue;
+    text-align: center;
+    line-height: 80px;
+    font-size: 30px;
+    margin: 2px;
+    float: left
+}
+.catur1 {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+.catur2{
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+.catur3{
+    background-color: yellowgreen;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+.catur4{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+.catur5{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+.catur6{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+.catur7{
+    background-color: purple;
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin: 2px;
+}
+
+
